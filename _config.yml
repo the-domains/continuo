@@ -1,0 +1,28 @@
+name: Continuo
+favicon: null
+layout_spectrum: 0.44911567284725606
+typography_spectrum: 0.7605112188030034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7060255473479629
+  lightness: 0.3917040314991027
+  saturation: 0.6051632887683809
+  rhythmicContrast: 0.9843874250072986
+purpose: []
